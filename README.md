@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HaiderMuhammad&show_icons=true&locale=en" alt="HaiderMuhammad" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaiderMuhammad&" alt="HaiderMuhammad" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HaiderMuhammad&show_icons=true&locale=en&layout=compact" alt="HaiderMuhammad" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HaiderMuhammad" alt="HaiderMuhammad" /></a></p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaiderMuhammad/HaiderMuhammad/output/github-snake-dark.svg" />
