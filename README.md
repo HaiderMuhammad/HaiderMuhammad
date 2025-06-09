@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1>Hello World!, I'm Haider, a Mobile app developer 👋🏻:</h1>
 <p></p>
