@@ -1,6 +1,6 @@
 
-<h1>Hello World!, I'm Haider, a Mobile app developer 👋🏻:</h1>
-<p></p>
+<h1>Hello World! I'm Haider, a Mobile App Developer 👋🏻</h1>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a>
