@@ -28,12 +28,6 @@
   </a>
 </p>
 
-<h2>📊 GitHub Stats</h2>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaiderMuhammad&show_icons=true&count_private=true&theme=react&hide_border=false" alt="Haider GitHub stats" />
-</p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaiderMuhammad&theme=react&hide_border=false" alt="Haider GitHub streak" />
 </p>
