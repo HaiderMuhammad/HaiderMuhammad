@@ -1,10 +1,7 @@
 
 <h1>Hello World! I'm Haider, a Mobile App Developer 👋🏻</h1>
 
-<h2 style="display: inline;">⚡️ Where to Find Me</h2>
-<a href="https://www.linkedin.com/in/haidermuhammad/" target="_blank" style="display: inline-block; margin-left: 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<h2 style="display: inline;">⚡️ Where to Find Me</h2> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidermuhammad/)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaiderMuhammad&theme=react&hide_border=false" alt="Haider GitHub streak" />
